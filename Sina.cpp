@@ -5,4 +5,5 @@ int main(){
     cout<<"tagir2";
     cout<<"tagir3";
     cout<<"Daaaaaaang";
+    cout<<"21:34";
 }
