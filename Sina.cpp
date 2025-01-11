@@ -4,4 +4,5 @@ int main(){
     cout<<"hi sina";
     cout<<"tagir2";
     cout<<"tagir3";
+    cout<<"Daaaaaaang";
 }
